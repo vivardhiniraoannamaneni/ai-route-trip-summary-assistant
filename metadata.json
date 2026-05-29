@@ -1,0 +1,6 @@
+{
+  "name": "AI Route & Trip Summary Assistant",
+  "description": "AI-powered briefing generator for logistics and delivery operations that helps drivers and operations teams prepare before their journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
